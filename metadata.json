@@ -1,0 +1,10 @@
+{
+  "name": "Voice RAG - Hacker House Goa 2026",
+  "description": "Ultra-low-latency voice-enabled extractive RAG with HNSW vector retrieval, BM25, RRF fusion, guardrails, and real MSMARCO-XI data.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
