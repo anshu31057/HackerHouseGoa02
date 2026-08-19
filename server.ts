@@ -880,12 +880,11 @@ async function startServer() {
     );
 
   } else {
-    const distPath =
-      path.resolve(
-        _dirname,
-        'dist'
-      );
-
+   const distPath =
+  path.resolve(
+    _dirname,
+    '../dist'
+  );
     if (
       fs.existsSync(
         distPath
